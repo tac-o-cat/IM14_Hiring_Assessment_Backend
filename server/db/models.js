@@ -39,7 +39,7 @@ module.exports = {
     get: function(req, res) {
       ToDos.findAll()
         .then(todo => res.send(todo))
-        .catch(err => res.send(err));
+        .catch(err => console.log(err));
     }
   }
 };
