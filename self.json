@@ -1,19 +1,19 @@
 {
     "server": {
         "basic":{
-            "json": 1,
+            "json": 3,
             "setting": 2,
-            "run": 1,
-            "readme": 3,
-            "secret": 1,
-            "controller": 3,
-            "router": 3,
+            "run": 3,
+            "readme": 1,
+            "secret": 3,
+            "controller": 1,
+            "router": 1,
             "model":2,
-            "docs": 4,
-            "error server": 1,
-            "data":4,
+            "docs": 0,
+            "error server": 3,
+            "data":0,
             "db":2,
-            "env":1,
+            "env":3,
             "git":2
         }
     }
